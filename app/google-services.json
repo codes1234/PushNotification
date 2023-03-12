@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731127880327",
+    "project_id": "pushnotification-a0f2a",
+    "storage_bucket": "pushnotification-a0f2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731127880327:android:cb8417cab9146cd3a23622",
+        "android_client_info": {
+          "package_name": "com.skyway.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731127880327-e7p571qjtgfjdgc56hmpp3lar3f6stlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5OM6AWjk5tHeG3-1POm6G5EpFVrr7arw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731127880327-e7p571qjtgfjdgc56hmpp3lar3f6stlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
